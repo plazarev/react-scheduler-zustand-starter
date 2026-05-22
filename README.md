@@ -5,7 +5,7 @@ A working demo of **DHTMLX React Scheduler** integrated with **Zustand** as the 
 **Related tutorial**:
 [https://docs.dhtmlx.com/scheduler/integrations/react/state/zustand/](https://docs.dhtmlx.com/scheduler/integrations/react/state/zustand/)
 
-## What is This
+## What is DHTMLX React Scheduler with Zustand Starter
  
 This demo shows how to connect DHTMLX React Scheduler to Zustand, a minimal and unopinionated state management library for React. All calendar events live in a Zustand store, and every user interaction — creating, editing, deleting, dragging, or resizing an event — flows through Zustand actions rather than directly updating Scheduler's internal state.
  
@@ -90,7 +90,6 @@ This demo is a starter, not a production-ready application. For production use:
 - [DHTMLX Scheduler documentation](https://docs.dhtmlx.com/scheduler/)
 - [DHTMLX Scheduler React integration guide](https://docs.dhtmlx.com/scheduler/react.html)
 - [Jotai scheduler starter (alternative atomic state approach)](https://github.com/DHTMLX/react-scheduler-jotai-starter)
-- [DHTMLX blog](https://dhtmlx.com/blog/)
 - [Community forum](https://forum.dhtmlx.com/)
 - [Report an issue](https://github.com/DHTMLX/react-scheduler-zustand-starter/issues)
 
